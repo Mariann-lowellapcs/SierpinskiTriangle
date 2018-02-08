@@ -1,4 +1,4 @@
-int value = 400;
+
 int r = 255;
 int g = 255;
 int b = 255;
